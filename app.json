@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gatito",
+    "slug": "gatito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gatito"
+}
